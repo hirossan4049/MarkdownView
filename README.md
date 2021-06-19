@@ -7,6 +7,9 @@
 [![License](https://img.shields.io/cocoapods/l/MarkdownView.svg?style=flat)](http://cocoapods.org/pods/MarkdownView)
 [![Swift Package Manager compatible](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-brightgreen.svg)](https://github.com/apple/swift-package-manager)
 
+利用規約用に下まで行ったか検知したかったがためにForkしたやつ。
+webviewをpublicにしただけ。
+
 > MarkdownView is a WKWebView based UI element, and internally use bootstrap, highlight.js, markdown-it.
 
 ![GIF](https://github.com/keitaoouchi/MarkdownView/blob/master/sample.gif "GIF")
