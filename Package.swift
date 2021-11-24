@@ -19,11 +19,11 @@ let package = Package(
             name: "MarkdownView",
             path: "Sources/MarkdownView",
             exclude: [
-                "ModuleCocoaPods.swift",
                 "Resources/main.js.LICENSE.txt"
             ],
             resources: [
-                .copy("Resources/index.html"),
+                .copy("Resources/styled.html"),
+                .copy("Resources/non_styled.html"),
                 .copy("Resources/main.js"),
                 .copy("Resources/main.css")
             ]
